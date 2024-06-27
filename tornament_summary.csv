@@ -1,0 +1,1175 @@
+League,country_name,season,club_id,goal_difference_x,home_game_points,away_game_points,goal_difference_y,total_points,FC,domestic_competition_id
+Premier-League,England,2012,985,26,48,41,-17,89,Manchester United Football Club,GB1
+Premier-League,England,2012,281,26,45,33,-6,78,Manchester City Football Club,GB1
+Premier-League,England,2012,631,25,41,34,-11,75,Chelsea Football Club,GB1
+Premier-League,England,2012,11,24,38,35,-11,73,Arsenal Football Club,GB1
+Premier-League,England,2012,148,11,38,34,-9,72,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2012,29,16,42,21,1,63,Everton Football Club,GB1
+Premier-League,England,2012,31,17,33,28,-11,61,Liverpool Football Club,GB1
+Premier-League,England,2012,984,7,31,18,11,49,West Bromwich Albion,GB1
+Premier-League,England,2012,379,12,33,13,20,46,West Ham United Football Club,GB1
+Premier-League,England,2012,2288,2,26,20,6,46,Swansea City,GB1
+Premier-League,England,2012,1123,5,31,13,22,44,Norwich City,GB1
+Premier-League,England,2012,931,-2,24,19,8,43,Fulham Football Club,GB1
+Premier-League,England,2012,512,-1,28,14,10,42,Stoke City,GB1
+Premier-League,England,2012,180,2,25,16,13,41,Southampton FC,GB1
+Premier-League,England,2012,405,-5,20,21,17,41,Aston Villa Football Club,GB1
+Premier-League,England,2012,762,-7,28,13,16,41,Newcastle United Football Club,GB1
+Premier-League,England,2012,289,1,23,16,14,39,Sunderland AFC,GB1
+Premier-League,England,2012,1071,-13,18,18,13,36,Wigan Athletic,GB1
+Premier-League,England,2012,1032,-10,20,8,20,28,Reading FC,GB1
+Premier-League,England,2012,1039,-15,14,11,15,25,Queens Park Rangers,GB1
+Premier-League,England,2013,281,50,52,34,-15,86,Manchester City Football Club,GB1
+Premier-League,England,2013,31,35,49,35,-16,84,Liverpool Football Club,GB1
+Premier-League,England,2013,631,32,48,34,-12,82,Chelsea Football Club,GB1
+Premier-League,England,2013,11,25,44,35,-2,79,Arsenal Football Club,GB1
+Premier-League,England,2013,29,19,42,30,-3,72,Everton Football Club,GB1
+Premier-League,England,2013,148,7,36,33,3,69,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2013,985,8,30,34,-13,64,Manchester United Football Club,GB1
+Premier-League,England,2013,180,9,30,26,1,56,Southampton FC,GB1
+Premier-League,England,2013,512,10,36,14,17,50,Stoke City,GB1
+Premier-League,England,2013,762,-5,27,22,11,49,Newcastle United Football Club,GB1
+Premier-League,England,2013,873,-5,27,18,10,45,Crystal Palace Football Club,GB1
+Premier-League,England,2013,2288,7,23,19,7,42,Swansea City,GB1
+Premier-League,England,2013,379,-1,24,16,10,40,West Ham United Football Club,GB1
+Premier-League,England,2013,289,-6,18,20,13,38,Sunderland AFC,GB1
+Premier-League,England,2013,405,-7,21,17,15,38,Aston Villa Football Club,GB1
+Premier-League,England,2013,3008,-1,25,12,14,37,Hull City,GB1
+Premier-League,England,2013,984,-3,21,15,13,36,West Bromwich Albion,GB1
+Premier-League,England,2013,1123,-1,24,9,33,33,Norwich City,GB1
+Premier-League,England,2013,931,-14,18,14,31,32,Fulham Football Club,GB1
+Premier-League,England,2013,603,-15,20,10,27,30,Cardiff City,GB1
+Premier-League,England,2014,631,27,49,38,-14,87,Chelsea Football Club,GB1
+Premier-League,England,2014,281,30,45,34,-15,79,Manchester City Football Club,GB1
+Premier-League,England,2014,11,27,41,34,-8,75,Arsenal Football Club,GB1
+Premier-League,England,2014,985,26,44,26,1,70,Manchester United Football Club,GB1
+Premier-League,England,2014,148,7,33,31,2,64,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2014,31,10,35,27,6,62,Liverpool Football Club,GB1
+Premier-League,England,2014,180,24,37,23,3,60,Southampton FC,GB1
+Premier-League,England,2014,2288,5,32,24,8,56,Swansea City,GB1
+Premier-League,England,2014,512,10,33,21,7,54,Stoke City,GB1
+Premier-League,England,2014,873,-6,21,27,-2,48,Crystal Palace Football Club,GB1
+Premier-League,England,2014,29,6,28,19,8,47,Everton Football Club,GB1
+Premier-League,England,2014,379,7,31,16,10,47,West Ham United Football Club,GB1
+Premier-League,England,2014,984,-2,25,19,11,44,West Bromwich Albion,GB1
+Premier-League,England,2014,1003,6,26,15,15,41,Leicester City,GB1
+Premier-League,England,2014,762,-1,26,13,22,39,Newcastle United Football Club,GB1
+Premier-League,England,2014,289,-11,20,18,11,38,Sunderland AFC,GB1
+Premier-League,England,2014,405,-7,21,17,19,38,Aston Villa Football Club,GB1
+Premier-League,England,2014,3008,-5,20,15,13,35,Hull City,GB1
+Premier-League,England,2014,1132,-7,19,14,18,33,Burnley Football Club,GB1
+Premier-League,England,2014,1039,-1,23,7,30,30,Queens Park Rangers,GB1
+Premier-League,England,2015,1003,17,42,39,-15,81,Leicester City,GB1
+Premier-League,England,2015,11,20,40,31,-9,71,Arsenal Football Club,GB1
+Premier-League,England,2015,148,20,36,34,-14,70,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2015,281,26,38,28,-4,66,Manchester City Football Club,GB1
+Premier-League,England,2015,985,18,41,25,4,66,Manchester United Football Club,GB1
+Premier-League,England,2015,180,17,36,27,-1,63,Southampton FC,GB1
+Premier-League,England,2015,379,8,34,28,-6,62,West Ham United Football Club,GB1
+Premier-League,England,2015,31,11,32,28,-2,60,Liverpool Football Club,GB1
+Premier-League,England,2015,512,-2,28,23,12,51,Stoke City,GB1
+Premier-League,England,2015,631,2,24,26,-4,50,Chelsea Football Club,GB1
+Premier-League,England,2015,29,5,23,24,1,47,Everton Football Club,GB1
+Premier-League,England,2015,2288,0,30,17,10,47,Swansea City,GB1
+Premier-League,England,2015,1010,1,24,21,11,45,Watford FC,GB1
+Premier-League,England,2015,984,-6,23,20,8,43,West Bromwich Albion,GB1
+Premier-League,England,2015,873,-4,21,21,8,42,Crystal Palace Football Club,GB1
+Premier-League,England,2015,989,-11,20,22,11,42,Association Football Club Bournemouth,GB1
+Premier-League,England,2015,289,3,24,15,17,39,Sunderland AFC,GB1
+Premier-League,England,2015,762,8,28,9,29,37,Newcastle United Football Club,GB1
+Premier-League,England,2015,1123,-4,23,11,24,34,Norwich City,GB1
+Premier-League,England,2015,405,-21,11,6,28,17,Aston Villa Football Club,GB1
+Premier-League,England,2016,631,38,51,42,-14,93,Chelsea Football Club,GB1
+Premier-League,England,2016,148,38,53,33,-22,86,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2016,281,20,40,38,-21,78,Manchester City Football Club,GB1
+Premier-League,England,2016,31,27,41,35,-9,76,Liverpool Football Club,GB1
+Premier-League,England,2016,11,23,45,30,-10,75,Arsenal Football Club,GB1
+Premier-League,England,2016,985,14,34,35,-11,69,Manchester United Football Club,GB1
+Premier-League,England,2016,29,26,43,18,8,61,Everton Football Club,GB1
+Premier-League,England,2016,180,-4,24,22,3,46,Southampton FC,GB1
+Premier-League,England,2016,989,6,31,15,18,46,Association Football Club Bournemouth,GB1
+Premier-League,England,2016,379,-12,25,20,5,45,West Ham United Football Club,GB1
+Premier-League,England,2016,984,5,29,16,13,45,West Bromwich Albion,GB1
+Premier-League,England,2016,512,0,27,17,15,44,Stoke City,GB1
+Premier-League,England,2016,1003,6,34,10,21,44,Leicester City,GB1
+Premier-League,England,2016,873,-1,20,21,12,41,Crystal Palace Football Club,GB1
+Premier-League,England,2016,2288,-7,27,14,18,41,Swansea City,GB1
+Premier-League,England,2016,1010,-4,28,12,24,40,Watford FC,GB1
+Premier-League,England,2016,1132,6,33,7,22,40,Burnley Football Club,GB1
+Premier-League,England,2016,3008,-7,28,6,36,34,Hull City,GB1
+Premier-League,England,2016,641,-6,18,10,20,28,Middlesbrough FC,GB1
+Premier-League,England,2016,289,-18,14,10,22,24,Sunderland AFC,GB1
+Premier-League,England,2017,281,47,50,50,-32,100,Manchester City Football Club,GB1
+Premier-League,England,2017,985,29,47,34,-11,81,Manchester United Football Club,GB1
+Premier-League,England,2017,148,24,43,34,-14,77,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2017,31,35,43,32,-11,75,Liverpool Football Club,GB1
+Premier-League,England,2017,631,14,37,33,-10,70,Chelsea Football Club,GB1
+Premier-League,England,2017,11,34,47,16,11,63,Arsenal Football Club,GB1
+Premier-League,England,2017,1132,-1,26,28,2,54,Burnley Football Club,GB1
+Premier-League,England,2017,29,6,34,15,20,49,Everton Football Club,GB1
+Premier-League,England,2017,1003,3,27,20,7,47,Leicester City,GB1
+Premier-League,England,2017,762,4,28,16,12,44,Newcastle United Football Club,GB1
+Premier-League,England,2017,873,2,26,18,12,44,Crystal Palace Football Club,GB1
+Premier-League,England,2017,989,-4,26,18,12,44,Association Football Club Bournemouth,GB1
+Premier-League,England,2017,379,-2,27,15,18,42,West Ham United Football Club,GB1
+Premier-League,England,2017,1010,-4,27,14,16,41,Watford FC,GB1
+Premier-League,England,2017,1237,-1,29,11,19,40,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2017,1110,-9,23,14,21,37,Huddersfield Town,GB1
+Premier-League,England,2017,180,-6,19,17,13,36,Southampton FC,GB1
+Premier-League,England,2017,512,-10,20,13,23,33,Stoke City,GB1
+Premier-League,England,2017,2288,-7,21,12,21,33,Swansea City,GB1
+Premier-League,England,2017,984,-8,18,13,17,31,West Bromwich Albion,GB1
+Premier-League,England,2018,281,45,54,44,-27,98,Manchester City Football Club,GB1
+Premier-League,England,2018,31,45,53,44,-22,97,Liverpool Football Club,GB1
+Premier-League,England,2018,631,27,42,30,3,72,Chelsea Football Club,GB1
+Premier-League,England,2018,148,18,38,33,-10,71,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2018,11,26,45,25,4,70,Arsenal Football Club,GB1
+Premier-League,England,2018,985,8,36,30,-3,66,Manchester United Football Club,GB1
+Premier-League,England,2018,543,7,34,23,6,57,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2018,29,9,34,20,1,54,Everton Football Club,GB1
+Premier-League,England,2018,379,5,31,21,8,52,West Ham United Football Club,GB1
+Premier-League,England,2018,1003,4,27,25,1,52,Leicester City,GB1
+Premier-League,England,2018,1010,-2,27,23,5,50,Watford FC,GB1
+Premier-League,England,2018,873,-4,20,29,-2,49,Crystal Palace Football Club,GB1
+Premier-League,England,2018,762,-1,25,20,5,45,Newcastle United Football Club,GB1
+Premier-League,England,2018,989,5,29,16,19,45,Association Football Club Bournemouth,GB1
+Premier-League,England,2018,1132,-8,23,17,15,40,Burnley Football Club,GB1
+Premier-League,England,2018,180,-3,23,16,17,39,Southampton FC,GB1
+Premier-League,England,2018,1237,-9,23,13,16,36,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2018,603,-17,20,14,18,34,Cardiff City,GB1
+Premier-League,England,2018,931,-14,21,5,33,26,Fulham Football Club,GB1
+Premier-League,England,2018,1110,-21,9,7,33,16,Huddersfield Town,GB1
+Premier-League,England,2019,31,36,55,44,-16,99,Liverpool Football Club,GB1
+Premier-League,England,2019,281,44,47,34,-23,81,Manchester City Football Club,GB1
+Premier-League,England,2019,631,14,36,30,-1,66,Chelsea Football Club,GB1
+Premier-League,England,2019,985,23,37,29,-7,66,Manchester United Football Club,GB1
+Premier-League,England,2019,1003,18,37,25,-8,62,Leicester City,GB1
+Premier-League,England,2019,148,19,39,20,5,59,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2019,543,8,31,28,-3,59,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2019,11,12,36,20,4,56,Arsenal Football Club,GB1
+Premier-League,England,2019,350,9,33,21,9,54,Sheffield United Football Club,GB1
+Premier-League,England,2019,1132,1,28,26,8,54,Burnley Football Club,GB1
+Premier-League,England,2019,180,-14,21,31,-5,52,Southampton FC,GB1
+Premier-League,England,2019,29,3,31,18,15,49,Everton Football Club,GB1
+Premier-League,England,2019,762,-1,26,18,19,44,Newcastle United Football Club,GB1
+Premier-League,England,2019,873,-5,23,20,14,43,Crystal Palace Football Club,GB1
+Premier-League,England,2019,1237,-7,22,19,8,41,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2019,379,-3,22,17,10,39,West Ham United Football Club,GB1
+Premier-League,England,2019,405,-8,24,11,18,35,Aston Villa Football Club,GB1
+Premier-League,England,2019,989,-8,21,13,17,34,Association Football Club Bournemouth,GB1
+Premier-League,England,2019,1010,-5,24,10,23,34,Watford FC,GB1
+Premier-League,England,2019,1123,-18,15,6,31,21,Norwich City,GB1
+Premier-League,England,2020,281,26,41,45,-25,86,Manchester City Football Club,GB1
+Premier-League,England,2020,985,10,31,43,-19,74,Manchester United Football Club,GB1
+Premier-League,England,2020,31,9,33,36,-17,69,Liverpool Football Club,GB1
+Premier-League,England,2020,631,13,33,34,-9,67,Chelsea Football Club,GB1
+Premier-League,England,2020,1003,4,28,38,-14,66,Leicester City,GB1
+Premier-League,England,2020,379,10,34,31,-5,65,West Ham United Football Club,GB1
+Premier-League,England,2020,148,15,33,29,-8,62,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2020,11,3,28,33,-13,61,Arsenal Football Club,GB1
+Premier-League,England,2020,29,-4,22,37,-3,59,Everton Football Club,GB1
+Premier-League,England,2020,399,7,29,30,-1,59,Leeds United,GB1
+Premier-League,England,2020,405,2,25,30,-7,55,Aston Villa Football Club,GB1
+Premier-League,England,2020,543,-4,25,20,12,45,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2020,762,-7,23,22,9,45,Newcastle United Football Club,GB1
+Premier-League,England,2020,873,-12,23,21,13,44,Crystal Palace Football Club,GB1
+Premier-League,England,2020,180,3,27,16,24,43,Southampton FC,GB1
+Premier-League,England,2020,1237,0,21,20,6,41,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2020,1132,-13,18,21,9,39,Burnley Football Club,GB1
+Premier-League,England,2020,931,-19,10,18,7,28,Fulham Football Club,GB1
+Premier-League,England,2020,984,-24,15,11,17,26,West Bromwich Albion,GB1
+Premier-League,England,2020,350,-15,16,7,28,23,Sheffield United Football Club,GB1
+Premier-League,England,2021,281,43,47,46,-30,93,Manchester City Football Club,GB1
+Premier-League,England,2021,31,40,49,43,-28,92,Liverpool Football Club,GB1
+Premier-League,England,2021,631,15,34,40,-28,74,Chelsea Football Club,GB1
+Premier-League,England,2021,148,19,40,31,-10,71,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2021,11,18,41,28,5,69,Arsenal Football Club,GB1
+Premier-League,England,2021,985,10,35,23,10,58,Manchester United Football Club,GB1
+Premier-League,England,2021,379,7,32,24,-2,56,West Ham United Football Club,GB1
+Premier-League,England,2021,1003,11,34,18,8,52,Leicester City,GB1
+Premier-League,England,2021,543,-5,24,27,0,51,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2021,1237,-4,22,29,-2,51,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2021,762,-1,30,19,17,49,Newcastle United Football Club,GB1
+Premier-League,England,2021,873,10,29,19,6,48,Crystal Palace Football Club,GB1
+Premier-League,England,2021,1148,1,24,22,9,46,Brentford Football Club,GB1
+Premier-League,England,2021,405,0,23,22,2,45,Aston Villa Football Club,GB1
+Premier-League,England,2021,180,-1,25,15,23,40,Southampton FC,GB1
+Premier-League,England,2021,29,2,29,10,25,39,Everton Football Club,GB1
+Premier-League,England,2021,399,-19,18,20,18,38,Leeds United,GB1
+Premier-League,England,2021,1132,-7,21,14,12,35,Burnley Football Club,GB1
+Premier-League,England,2021,1010,-29,8,15,14,23,Watford FC,GB1
+Premier-League,England,2021,1123,-31,12,10,30,22,Norwich City,GB1
+Premier-League,England,2022,281,43,52,37,-18,89,Manchester City Football Club,GB1
+Premier-League,England,2022,11,28,45,39,-17,84,Arsenal Football Club,GB1
+Premier-League,England,2022,985,26,48,27,11,75,Manchester United Football Club,GB1
+Premier-League,England,2022,762,22,39,32,-13,71,Newcastle United Football Club,GB1
+Premier-League,England,2022,31,29,44,23,1,67,Liverpool Football Club,GB1
+Premier-League,England,2022,1237,16,34,28,-3,62,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2022,405,12,38,23,7,61,Aston Villa Football Club,GB1
+Premier-League,England,2022,148,12,37,23,5,60,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2022,1148,17,37,22,5,59,Brentford Football Club,GB1
+Premier-League,England,2022,931,2,29,23,0,52,Fulham Football Club,GB1
+Premier-League,England,2022,873,-2,28,17,7,45,Crystal Palace Football Club,GB1
+Premier-League,England,2022,631,1,25,19,10,44,Chelsea Football Club,GB1
+Premier-League,England,2022,543,-1,30,11,26,41,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2022,379,2,28,12,15,40,West Ham United Football Club,GB1
+Premier-League,England,2022,989,-8,22,17,26,39,Association Football Club Bournemouth,GB1
+Premier-League,England,2022,703,3,30,8,33,38,Nottingham Forest Football Club,GB1
+Premier-League,England,2022,29,-11,21,15,12,36,Everton Football Club,GB1
+Premier-League,England,2022,1003,-4,19,15,13,34,Leicester City,GB1
+Premier-League,England,2022,399,-11,22,9,19,31,Leeds United,GB1
+Premier-League,England,2022,180,-18,11,14,19,25,Southampton FC,GB1
+Premier-League,England,2023,281,35,47,44,-27,91,Manchester City Football Club,GB1
+Premier-League,England,2023,11,32,47,42,-30,89,Arsenal Football Club,GB1
+Premier-League,England,2023,31,32,48,34,-13,82,Liverpool Football Club,GB1
+Premier-League,England,2023,405,20,40,28,5,68,Aston Villa Football Club,GB1
+Premier-League,England,2023,148,11,39,27,-2,66,Tottenham Hotspur Football Club,GB1
+Premier-League,England,2023,631,18,37,26,4,63,Chelsea Football Club,GB1
+Premier-League,England,2023,762,27,40,20,4,60,Newcastle United Football Club,GB1
+Premier-League,England,2023,985,3,33,27,4,60,Manchester United Football Club,GB1
+Premier-League,England,2023,379,3,29,23,17,52,West Ham United Football Club,GB1
+Premier-League,England,2023,873,11,28,21,12,49,Crystal Palace Football Club,GB1
+Premier-League,England,2023,29,4,28,20,15,48,Everton Football Club,GB1
+Premier-League,England,2023,989,-1,27,21,12,48,Association Football Club Bournemouth,GB1
+Premier-League,England,2023,1237,3,30,18,10,48,Brighton and Hove Albion Football Club,GB1
+Premier-League,England,2023,931,7,29,18,13,47,Fulham Football Club,GB1
+Premier-League,England,2023,543,-4,27,19,11,46,Wolverhampton Wanderers Football Club,GB1
+Premier-League,England,2023,1148,-5,22,17,4,39,Brentford Football Club,GB1
+Premier-League,England,2023,703,-3,20,16,15,36,Nottingham Forest Football Club,GB1
+Premier-League,England,2023,1031,-9,16,10,24,26,Luton Town Football Club,GB1
+Premier-League,England,2023,1132,-24,10,14,13,24,Burnley Football Club,GB1
+Premier-League,England,2023,350,-38,10,6,31,16,Sheffield United Football Club,GB1
+Ligue-1,France,2012,583,24,43,40,-22,83,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2012,244,7,40,31,1,71,Olympique de Marseille,FR1
+Ligue-1,France,2012,1041,17,37,30,-6,67,Olympique Lyonnais,FR1
+Ligue-1,France,2012,417,18,38,26,7,64,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2012,618,23,37,26,-5,63,AS Saint-Étienne,FR1
+Ligue-1,France,2012,1082,16,34,28,-3,62,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2012,40,3,32,23,-3,55,FC Girondins Bordeaux,FR1
+Ligue-1,France,2012,1158,13,36,17,14,53,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2012,969,19,38,14,16,52,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2012,415,4,28,23,2,51,Toulouse Football Club,FR1
+Ligue-1,France,2012,1423,11,33,15,15,48,Valenciennes FC,FR1
+Ligue-1,France,2012,595,4,30,17,20,47,SC Bastia,FR1
+Ligue-1,France,2012,273,-4,23,23,7,46,Stade Rennais Football Club,FR1
+Ligue-1,France,2012,1421,7,31,12,16,43,Stade de Reims,FR1
+Ligue-1,France,2012,1147,-1,26,16,11,42,AC Ajaccio,FR1
+Ligue-1,France,2012,750,-1,23,18,15,41,FC Sochaux-Montbéliard,FR1
+Ligue-1,France,2012,14171,6,25,15,13,40,Thonon Évian Grand Genève FC,FR1
+Ligue-1,France,2012,1159,-9,20,18,11,38,AS Nancy-Lorraine,FR1
+Ligue-1,France,2012,1095,1,26,11,19,37,ESTAC Troyes,FR1
+Ligue-1,France,2012,3911,-9,18,11,21,29,Stade brestois 29,FR1
+Ligue-1,France,2013,583,44,48,41,-17,89,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2013,162,18,42,38,-14,80,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2013,1082,15,42,29,-5,71,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2013,618,21,41,28,-1,69,AS Saint-Étienne,FR1
+Ligue-1,France,2013,1041,15,31,30,3,61,Olympique Lyonnais,FR1
+Ligue-1,France,2013,244,10,33,27,-3,60,Olympique de Marseille,FR1
+Ligue-1,France,2013,40,11,34,19,5,53,FC Girondins Bordeaux,FR1
+Ligue-1,France,2013,415,-3,24,25,4,49,Toulouse Football Club,FR1
+Ligue-1,France,2013,1158,4,31,18,9,49,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2013,1421,0,27,21,8,48,Stade de Reims,FR1
+Ligue-1,France,2013,595,6,35,12,20,47,SC Bastia,FR1
+Ligue-1,France,2013,995,0,26,21,5,47,Football Club de Nantes,FR1
+Ligue-1,France,2013,273,1,23,23,-1,46,Stade Rennais Football Club,FR1
+Ligue-1,France,2013,14171,1,27,17,13,44,Thonon Évian Grand Genève FC,FR1
+Ligue-1,France,2013,417,6,32,10,20,42,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2013,855,5,28,14,13,42,EA Guingamp,FR1
+Ligue-1,France,2013,969,3,24,18,11,42,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2013,750,2,30,10,26,40,FC Sochaux-Montbéliard,FR1
+Ligue-1,France,2013,1423,-8,17,12,20,29,Valenciennes FC,FR1
+Ligue-1,France,2013,1147,-10,15,8,25,23,AC Ajaccio,FR1
+Ligue-1,France,2014,583,38,49,34,-9,83,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2014,1041,29,45,30,-10,75,Olympique Lyonnais,FR1
+Ligue-1,France,2014,162,13,33,38,-12,71,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2014,244,18,41,28,-16,69,Olympique de Marseille,FR1
+Ligue-1,France,2014,618,21,41,28,0,69,AS Saint-Étienne,FR1
+Ligue-1,France,2014,40,8,41,22,5,63,FC Girondins Bordeaux,FR1
+Ligue-1,France,2014,969,9,35,21,2,56,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2014,1082,14,38,18,13,56,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2014,273,0,29,21,7,50,Stade Rennais Football Club,FR1
+Ligue-1,France,2014,855,-2,28,21,12,49,EA Guingamp,FR1
+Ligue-1,France,2014,417,-3,24,24,6,48,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2014,595,6,31,16,15,47,SC Bastia,FR1
+Ligue-1,France,2014,1162,1,24,22,2,46,SM Caen,FR1
+Ligue-1,France,2014,995,0,28,17,11,45,Football Club de Nantes,FR1
+Ligue-1,France,2014,1421,-5,27,17,14,44,Stade de Reims,FR1
+Ligue-1,France,2014,1158,0,23,20,6,43,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2014,415,-1,30,12,20,42,Toulouse Football Club,FR1
+Ligue-1,France,2014,14171,-5,23,14,16,37,Thonon Évian Grand Genève FC,FR1
+Ligue-1,France,2014,347,-6,22,8,24,30,Football Club de Metz,FR1
+Ligue-1,France,2014,826,-10,19,10,19,29,Racing Club de Lens,FR1
+Ligue-1,France,2015,583,47,48,48,-36,96,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2015,162,11,36,29,4,65,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2015,1041,26,40,25,2,65,Olympique Lyonnais,FR1
+Ligue-1,France,2015,417,16,38,25,-1,63,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2015,1082,10,33,27,-2,60,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2015,618,10,34,24,5,58,AS Saint-Étienne,FR1
+Ligue-1,France,2015,1162,-4,30,24,9,54,SM Caen,FR1
+Ligue-1,France,2015,273,0,25,27,2,52,Stade Rennais Football Club,FR1
+Ligue-1,France,2015,40,7,31,19,14,50,FC Girondins Bordeaux,FR1
+Ligue-1,France,2015,595,9,35,15,15,50,SC Bastia,FR1
+Ligue-1,France,2015,1420,5,26,24,3,50,Angers SCO,FR1
+Ligue-1,France,2015,969,3,27,22,1,49,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2015,244,3,20,28,-3,48,Olympique de Marseille,FR1
+Ligue-1,France,2015,995,0,29,19,11,48,Football Club de Nantes,FR1
+Ligue-1,France,2015,1158,5,28,18,16,46,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2015,855,3,25,19,12,44,EA Guingamp,FR1
+Ligue-1,France,2015,415,8,25,15,18,40,Toulouse Football Club,FR1
+Ligue-1,France,2015,1421,5,26,13,18,39,Stade de Reims,FR1
+Ligue-1,France,2015,3558,-9,22,15,12,37,GFC Ajaccio,FR1
+Ligue-1,France,2015,1095,-23,10,8,32,18,ESTAC Troyes,FR1
+Ligue-1,France,2016,162,50,52,43,-26,95,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2016,583,35,45,42,-21,87,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2016,417,23,46,32,-4,78,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2016,1041,20,37,28,-9,65,Olympique Lyonnais,FR1
+Ligue-1,France,2016,244,20,43,19,4,62,Olympique de Marseille,FR1
+Ligue-1,France,2016,40,8,33,26,-2,59,FC Girondins Bordeaux,FR1
+Ligue-1,France,2016,995,-5,28,23,9,51,Football Club de Nantes,FR1
+Ligue-1,France,2016,273,11,36,14,17,50,Stade Rennais Football Club,FR1
+Ligue-1,France,2016,618,6,30,20,7,50,AS Saint-Étienne,FR1
+Ligue-1,France,2016,855,15,39,11,22,50,EA Guingamp,FR1
+Ligue-1,France,2016,1082,0,24,22,7,46,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2016,1420,6,29,17,15,46,Angers SCO,FR1
+Ligue-1,France,2016,415,10,30,14,14,44,Toulouse Football Club,FR1
+Ligue-1,France,2016,347,-7,28,15,26,43,Football Club de Metz,FR1
+Ligue-1,France,2016,969,6,29,10,24,39,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2016,1162,-16,23,14,13,37,SM Caen,FR1
+Ligue-1,France,2016,2969,6,27,10,18,37,Dijon FCO,FR1
+Ligue-1,France,2016,1158,-4,25,11,22,36,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2016,595,3,25,10,28,35,SC Bastia,FR1
+Ligue-1,France,2016,1159,-2,24,11,21,35,AS Nancy-Lorraine,FR1
+Ligue-1,France,2017,583,55,52,41,-24,93,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2017,162,30,48,32,-10,80,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2017,244,25,41,36,-8,77,Olympique de Marseille,FR1
+Ligue-1,France,2017,1041,20,41,34,-19,75,Olympique Lyonnais,FR1
+Ligue-1,France,2017,273,-1,28,30,-7,58,Stade Rennais Football Club,FR1
+Ligue-1,France,2017,40,4,31,24,-1,55,FC Girondins Bordeaux,FR1
+Ligue-1,France,2017,618,10,31,24,8,55,AS Saint-Étienne,FR1
+Ligue-1,France,2017,417,6,33,21,5,54,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2017,995,-2,28,24,3,52,Football Club de Nantes,FR1
+Ligue-1,France,2017,969,1,24,27,-2,51,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2017,2969,7,36,12,25,48,Dijon FCO,FR1
+Ligue-1,France,2017,855,6,31,16,17,47,EA Guingamp,FR1
+Ligue-1,France,2017,1416,7,29,16,12,45,Amiens SC,FR1
+Ligue-1,France,2017,1420,-5,22,19,5,41,Angers SCO,FR1
+Ligue-1,France,2017,667,0,27,11,23,38,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2017,1082,-3,24,14,23,38,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2017,1162,-2,26,12,23,38,SM Caen,FR1
+Ligue-1,France,2017,415,2,26,11,18,37,Toulouse Football Club,FR1
+Ligue-1,France,2017,1095,-5,24,9,22,33,ESTAC Troyes,FR1
+Ligue-1,France,2017,347,-21,13,13,21,26,Football Club de Metz,FR1
+Ligue-1,France,2018,583,53,53,38,-17,91,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2018,1082,31,43,32,-4,75,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2018,1041,19,40,32,-4,72,Olympique Lyonnais,FR1
+Ligue-1,France,2018,618,20,41,25,2,66,AS Saint-Étienne,FR1
+Ligue-1,France,2018,244,14,37,24,6,61,Olympique de Marseille,FR1
+Ligue-1,France,2018,969,11,32,27,0,59,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2018,417,5,34,22,10,56,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2018,1421,3,31,24,6,55,Stade de Reims,FR1
+Ligue-1,France,2018,1160,10,32,21,11,53,Nîmes Olympique,FR1
+Ligue-1,France,2018,273,9,31,21,6,52,Stade Rennais Football Club,FR1
+Ligue-1,France,2018,667,6,26,23,-4,49,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2018,995,11,31,17,11,48,Football Club de Nantes,FR1
+Ligue-1,France,2018,1420,2,24,22,7,46,Angers SCO,FR1
+Ligue-1,France,2018,40,3,27,14,11,41,FC Girondins Bordeaux,FR1
+Ligue-1,France,2018,415,-6,21,17,16,38,Toulouse Football Club,FR1
+Ligue-1,France,2018,1416,-2,26,12,19,38,Amiens SC,FR1
+Ligue-1,France,2018,162,-10,18,18,9,36,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2018,2969,-11,22,12,18,34,Dijon FCO,FR1
+Ligue-1,France,2018,1162,-11,17,16,14,33,SM Caen,FR1
+Ligue-1,France,2018,855,-11,16,11,29,27,EA Guingamp,FR1
+Ligue-1,France,2019,583,33,37,31,-18,68,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2019,244,7,28,28,-5,56,Olympique de Marseille,FR1
+Ligue-1,France,2019,273,11,29,21,-3,50,Stade Rennais Football Club,FR1
+Ligue-1,France,2019,1082,15,35,14,7,49,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2019,417,8,28,13,5,41,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2019,1421,5,22,19,0,41,Stade de Reims,FR1
+Ligue-1,France,2019,162,7,26,14,7,40,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2019,969,16,32,8,15,40,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2019,1041,10,19,21,-5,40,Olympique Lyonnais,FR1
+Ligue-1,France,2019,1420,7,27,12,12,39,Angers SCO,FR1
+Ligue-1,France,2019,667,8,24,14,8,38,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2019,40,7,17,20,1,37,FC Girondins Bordeaux,FR1
+Ligue-1,France,2019,995,0,20,17,3,37,Football Club de Nantes,FR1
+Ligue-1,France,2019,347,1,19,15,9,34,Football Club de Metz,FR1
+Ligue-1,France,2019,3911,10,24,10,13,34,Stade brestois 29,FR1
+Ligue-1,France,2019,618,-3,18,12,13,30,AS Saint-Étienne,FR1
+Ligue-1,France,2019,2969,5,24,6,15,30,Dijon FCO,FR1
+Ligue-1,France,2019,1160,2,20,7,17,27,Nîmes Olympique,FR1
+Ligue-1,France,2019,1416,-6,14,9,13,23,Amiens SC,FR1
+Ligue-1,France,2019,415,-13,9,4,23,13,Toulouse Football Club,FR1
+Ligue-1,France,2020,1082,17,37,46,-24,83,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2020,583,30,40,42,-28,82,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2020,162,22,41,37,-12,78,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2020,1041,19,36,40,-19,76,Olympique Lyonnais,FR1
+Ligue-1,France,2020,244,9,35,25,2,60,Olympique de Marseille,FR1
+Ligue-1,France,2020,273,5,31,27,-7,58,Stade Rennais Football Club,FR1
+Ligue-1,France,2020,826,2,28,29,1,57,Racing Club de Lens,FR1
+Ligue-1,France,2020,969,-1,25,29,1,54,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2020,417,-5,24,28,-2,52,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2020,347,-7,20,27,-3,47,Football Club de Metz,FR1
+Ligue-1,France,2020,618,-9,21,25,3,46,AS Saint-Étienne,FR1
+Ligue-1,France,2020,40,-2,25,20,12,45,FC Girondins Bordeaux,FR1
+Ligue-1,France,2020,1420,-7,21,23,11,44,Angers SCO,FR1
+Ligue-1,France,2020,667,-8,17,25,1,42,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2020,1158,2,32,10,20,42,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2020,1421,-5,20,22,3,42,Stade de Reims,FR1
+Ligue-1,France,2020,3911,-1,28,13,15,41,Stade brestois 29,FR1
+Ligue-1,France,2020,995,-8,17,23,0,40,Football Club de Nantes,FR1
+Ligue-1,France,2020,1160,-17,14,21,14,35,Nîmes Olympique,FR1
+Ligue-1,France,2020,2969,-23,9,12,25,21,Dijon FCO,FR1
+Ligue-1,France,2021,583,37,51,35,-17,86,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2021,244,11,32,39,-14,71,Olympique de Marseille,FR1
+Ligue-1,France,2021,162,22,40,29,-3,69,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2021,417,6,34,33,-10,67,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2021,273,37,43,23,-5,66,Stade Rennais Football Club,FR1
+Ligue-1,France,2021,667,18,38,25,1,63,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2021,826,15,34,28,1,62,Racing Club de Lens,FR1
+Ligue-1,France,2021,1041,17,38,24,2,62,Olympique Lyonnais,FR1
+Ligue-1,France,2021,995,13,37,18,6,55,Football Club de Nantes,FR1
+Ligue-1,France,2021,1082,2,29,26,2,55,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2021,3911,-1,25,23,7,48,Stade brestois 29,FR1
+Ligue-1,France,2021,1421,2,21,25,3,46,Stade de Reims,FR1
+Ligue-1,France,2021,969,1,26,17,13,43,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2021,1420,0,26,15,11,41,Angers SCO,FR1
+Ligue-1,France,2021,1095,0,22,16,16,38,ESTAC Troyes,FR1
+Ligue-1,France,2021,1158,-2,24,12,26,36,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2021,3524,-11,18,18,20,36,Clermont Foot 63,FR1
+Ligue-1,France,2021,618,-14,18,14,21,32,AS Saint-Étienne,FR1
+Ligue-1,France,2021,40,-8,16,15,31,31,FC Girondins Bordeaux,FR1
+Ligue-1,France,2021,347,-10,16,15,24,31,Football Club de Metz,FR1
+Ligue-1,France,2022,583,20,41,44,-29,85,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2022,826,28,52,32,-11,84,Racing Club de Lens,FR1
+Ligue-1,France,2022,244,11,34,39,-16,73,Olympique de Marseille,FR1
+Ligue-1,France,2022,273,29,45,23,-1,68,Stade Rennais Football Club,FR1
+Ligue-1,France,2022,1082,15,43,24,-6,67,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2022,162,4,30,35,-8,65,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2022,1041,16,35,27,-2,62,Olympique Lyonnais,FR1
+Ligue-1,France,2022,3524,-8,30,29,-4,59,Clermont Foot 63,FR1
+Ligue-1,France,2022,417,6,28,30,-5,58,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2022,1158,5,31,24,6,55,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2022,1421,5,30,21,5,51,Stade de Reims,FR1
+Ligue-1,France,2022,969,0,24,26,-3,50,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2022,415,0,24,24,6,48,Toulouse Football Club,FR1
+Ligue-1,France,2022,3911,-2,26,18,8,44,Stade brestois 29,FR1
+Ligue-1,France,2022,667,-1,22,18,7,40,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2022,995,-6,23,13,12,36,Football Club de Nantes,FR1
+Ligue-1,France,2022,290,-10,22,13,18,35,AJ Auxerre,FR1
+Ligue-1,France,2022,1147,-20,15,11,31,26,AC Ajaccio,FR1
+Ligue-1,France,2022,1095,-11,14,10,25,24,ESTAC Troyes,FR1
+Ligue-1,France,2022,1420,-16,12,6,32,18,Angers SCO,FR1
+Ligue-1,France,2023,583,20,33,43,-28,76,Paris Saint-Germain Football Club,FR1
+Ligue-1,France,2023,162,16,33,34,-10,67,Association sportive de Monaco Football Club,FR1
+Ligue-1,France,2023,3911,11,31,30,-8,61,Stade brestois 29,FR1
+Ligue-1,France,2023,1082,20,37,22,2,59,Lille Olympique Sporting Club Lille Métropole,FR1
+Ligue-1,France,2023,417,10,31,24,-1,55,Olympique Gymnaste Club Nice Côte d'Azur,FR1
+Ligue-1,France,2023,1041,-4,25,28,2,53,Olympique Lyonnais,FR1
+Ligue-1,France,2023,826,9,31,20,1,51,Racing Club de Lens,FR1
+Ligue-1,France,2023,244,18,36,14,7,50,Olympique de Marseille,FR1
+Ligue-1,France,2023,1421,1,27,20,6,47,Stade de Reims,FR1
+Ligue-1,France,2023,273,8,25,21,1,46,Stade Rennais Football Club,FR1
+Ligue-1,France,2023,415,-4,16,27,0,43,Toulouse Football Club,FR1
+Ligue-1,France,2023,969,-3,18,24,2,42,Montpellier Hérault Sport Club,FR1
+Ligue-1,France,2023,667,-1,24,15,11,39,Racing Club de Strasbourg Alsace,FR1
+Ligue-1,France,2023,995,-13,12,21,12,33,Football Club de Nantes,FR1
+Ligue-1,France,2023,738,-1,20,12,10,32,Le Havre Athletic Club,FR1
+Ligue-1,France,2023,347,-10,12,17,13,29,Football Club de Metz,FR1
+Ligue-1,France,2023,1158,-4,16,13,19,29,Football Club Lorient-Bretagne Sud,FR1
+Ligue-1,France,2023,3524,-13,14,11,21,25,Clermont Foot 63,FR1
+Bundesliga,Germany,2012,27,45,44,47,-35,91,FC Bayern München,L1
+Bundesliga,Germany,2012,16,21,33,33,-18,66,Borussia Dortmund,L1
+Bundesliga,Germany,2012,15,21,39,26,-5,65,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2012,33,13,33,22,5,55,FC Schalke 04,L1
+Bundesliga,Germany,2012,24,9,31,20,6,51,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2012,60,7,28,23,2,51,Sport-Club Freiburg,L1
+Bundesliga,Germany,2012,41,0,26,22,11,48,Hamburger SV,L1
+Bundesliga,Germany,2012,18,7,29,18,11,47,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2012,42,11,32,13,13,45,Hannover 96,L1
+Bundesliga,Germany,2012,4,5,27,17,13,44,1.FC Nuremberg,L1
+Bundesliga,Germany,2012,79,-8,19,24,10,43,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2012,82,-9,17,26,-4,43,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2012,39,3,26,16,5,42,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2012,86,-7,20,14,9,34,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2012,167,-3,20,13,15,33,FC Augsburg 1907,L1
+Bundesliga,Germany,2012,533,-9,19,12,16,31,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2012,38,-4,21,9,14,30,Fortuna Düsseldorf,L1
+Bundesliga,Germany,2012,65,-26,4,17,8,21,SpVgg Greuther Fürth,L1
+Bundesliga,Germany,2013,27,33,46,44,-38,90,FC Bayern München,L1
+Bundesliga,Germany,2013,16,22,35,36,-20,71,Borussia Dortmund,L1
+Bundesliga,Germany,2013,33,21,38,26,1,64,FC Schalke 04,L1
+Bundesliga,Germany,2013,15,13,33,28,-6,61,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2013,82,15,36,24,2,60,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2013,18,21,36,19,5,55,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2013,39,11,33,20,13,53,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2013,167,5,30,22,5,52,FC Augsburg 1907,L1
+Bundesliga,Germany,2013,533,12,27,17,10,44,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2013,42,2,29,13,15,42,Hannover 96,L1
+Bundesliga,Germany,2013,44,-4,21,20,4,41,Hertha BSC,L1
+Bundesliga,Germany,2013,86,-9,24,15,15,39,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2013,24,-2,20,16,15,36,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2013,60,-5,22,14,13,36,Sport-Club Freiburg,L1
+Bundesliga,Germany,2013,79,0,19,13,13,32,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2013,41,-10,18,9,14,27,Hamburger SV,L1
+Bundesliga,Germany,2013,4,-16,14,12,17,26,1.FC Nuremberg,L1
+Bundesliga,Germany,2013,23,-6,18,7,25,25,Eintracht Braunschweig,L1
+Bundesliga,Germany,2014,27,39,43,36,-23,79,FC Bayern München,L1
+Bundesliga,Germany,2014,82,25,43,26,-9,69,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2014,18,18,39,27,-9,66,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2014,15,24,36,25,-1,61,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2014,167,7,31,18,7,49,FC Augsburg 1907,L1
+Bundesliga,Germany,2014,33,12,35,13,10,48,FC Schalke 04,L1
+Bundesliga,Germany,2014,16,11,30,16,6,46,Borussia Dortmund,L1
+Bundesliga,Germany,2014,533,5,30,14,11,44,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2014,24,10,32,11,16,43,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2014,86,1,28,15,16,43,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2014,3,1,21,19,7,40,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2014,39,8,24,16,10,40,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2014,42,-4,22,15,12,37,Hannover 96,L1
+Bundesliga,Germany,2014,79,-10,19,17,8,36,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2014,41,-2,23,12,23,35,Hamburger SV,L1
+Bundesliga,Germany,2014,44,-5,22,13,11,35,Hertha BSC,L1
+Bundesliga,Germany,2014,60,-1,21,13,10,34,Sport-Club Freiburg,L1
+Bundesliga,Germany,2014,127,-10,18,13,24,31,SC Paderborn 07,L1
+Bundesliga,Germany,2015,27,43,46,42,-20,88,FC Bayern München,L1
+Bundesliga,Germany,2015,16,35,45,33,-13,78,Borussia Dortmund,L1
+Bundesliga,Germany,2015,15,14,33,27,-2,60,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2015,18,24,40,15,7,55,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2015,33,4,29,23,2,52,FC Schalke 04,L1
+Bundesliga,Germany,2015,39,5,28,22,1,50,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2015,44,9,32,18,9,50,Hertha BSC,L1
+Bundesliga,Germany,2015,82,15,32,13,17,45,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2015,3,-2,20,23,2,43,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2015,41,-3,19,22,3,41,Hamburger SV,L1
+Bundesliga,Germany,2015,4795,4,26,14,13,40,FC Ingolstadt 04,L1
+Bundesliga,Germany,2015,86,-3,20,18,12,38,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2015,105,-14,12,26,1,38,Sportverein Darmstadt 1898 e. V.,L1
+Bundesliga,Germany,2015,167,-9,15,23,1,38,FC Augsburg 1907,L1
+Bundesliga,Germany,2015,533,-3,24,13,12,37,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2015,24,-2,24,12,16,36,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2015,79,-10,19,14,15,33,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2015,42,-15,12,13,16,25,Hannover 96,L1
+Bundesliga,Germany,2016,27,46,43,39,-21,82,FC Bayern München,L1
+Bundesliga,Germany,2016,23826,19,38,29,-8,67,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2016,16,29,43,21,-3,64,Borussia Dortmund,L1
+Bundesliga,Germany,2016,533,21,39,23,-6,62,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2016,3,12,33,16,3,49,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2016,44,9,37,12,13,49,Hertha BSC,L1
+Bundesliga,Germany,2016,60,-1,32,16,17,48,Sport-Club Freiburg,L1
+Bundesliga,Germany,2016,18,8,26,19,12,45,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2016,86,4,25,20,7,45,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2016,33,14,29,14,9,43,FC Schalke 04,L1
+Bundesliga,Germany,2016,24,6,28,14,13,42,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2016,15,-1,21,20,1,41,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2016,41,-4,28,10,24,38,Hamburger SV,L1
+Bundesliga,Germany,2016,167,-3,21,17,13,38,FC Augsburg 1907,L1
+Bundesliga,Germany,2016,39,4,25,12,15,37,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2016,82,-10,18,19,8,37,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2016,4795,-9,17,15,12,32,FC Ingolstadt 04,L1
+Bundesliga,Germany,2016,105,-7,21,4,28,25,Sportverein Darmstadt 1898 e. V.,L1
+Bundesliga,Germany,2017,27,41,44,40,-23,84,FC Bayern München,L1
+Bundesliga,Germany,2017,33,12,35,28,-4,63,FC Schalke 04,L1
+Bundesliga,Germany,2017,15,10,29,26,-4,55,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2017,16,19,31,24,2,55,Borussia Dortmund,L1
+Bundesliga,Germany,2017,533,22,37,18,4,55,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2017,23826,8,31,22,4,53,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2017,79,9,34,17,9,51,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2017,24,7,28,21,7,49,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2017,18,8,31,16,13,47,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2017,44,-4,22,21,-1,43,Hertha BSC,L1
+Bundesliga,Germany,2017,86,3,25,17,6,42,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2017,167,0,22,19,3,41,FC Augsburg 1907,L1
+Bundesliga,Germany,2017,42,3,27,12,13,39,Hannover 96,L1
+Bundesliga,Germany,2017,39,1,24,12,15,36,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2017,60,0,27,9,24,36,Sport-Club Freiburg,L1
+Bundesliga,Germany,2017,82,-2,17,16,10,33,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2017,41,-2,22,9,22,31,Hamburger SV,L1
+Bundesliga,Germany,2017,3,-10,14,8,25,22,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2018,27,35,42,36,-21,78,FC Bayern München,L1
+Bundesliga,Germany,2018,16,27,44,32,-10,76,Borussia Dortmund,L1
+Bundesliga,Germany,2018,23826,25,36,30,-9,66,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2018,15,7,29,29,-10,58,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2018,18,9,30,25,-4,55,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2018,82,13,29,26,1,55,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2018,24,11,28,26,-1,54,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2018,86,9,30,23,0,53,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2018,533,8,26,25,-10,51,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2018,38,-1,27,17,15,44,Fortuna Düsseldorf,L1
+Bundesliga,Germany,2018,39,9,29,14,20,43,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2018,44,-1,24,19,7,43,Hertha BSC,L1
+Bundesliga,Germany,2018,60,5,25,11,20,36,Sport-Club Freiburg,L1
+Bundesliga,Germany,2018,33,-12,15,18,6,33,FC Schalke 04,L1
+Bundesliga,Germany,2018,167,1,19,13,21,32,FC Augsburg 1907,L1
+Bundesliga,Germany,2018,79,-5,22,6,33,28,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2018,42,-11,16,5,29,21,Hannover 96,L1
+Bundesliga,Germany,2018,4,-6,16,3,36,19,1.FC Nuremberg,L1
+Bundesliga,Germany,2019,27,38,41,41,-30,82,FC Bayern München,L1
+Bundesliga,Germany,2019,16,29,36,33,-14,69,Borussia Dortmund,L1
+Bundesliga,Germany,2019,23826,17,29,37,-27,66,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2019,18,19,38,27,-7,65,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2019,15,10,31,32,-7,63,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2019,533,-11,22,30,-11,52,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2019,82,-4,19,30,-6,49,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2019,60,6,29,19,5,48,Sport-Club Freiburg,L1
+Bundesliga,Germany,2019,24,9,28,17,10,45,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2019,44,-9,21,20,2,41,Hertha BSC,L1
+Bundesliga,Germany,2019,89,4,27,14,21,41,1. FC Union Berlin,L1
+Bundesliga,Germany,2019,33,-7,22,17,13,39,FC Schalke 04,L1
+Bundesliga,Germany,2019,39,-11,17,20,10,37,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2019,3,1,22,14,19,36,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2019,167,-1,20,16,17,36,FC Augsburg 1907,L1
+Bundesliga,Germany,2019,86,-21,9,22,6,31,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2019,38,-10,18,12,21,30,Fortuna Düsseldorf,L1
+Bundesliga,Germany,2019,127,-25,8,12,12,20,SC Paderborn 07,L1
+Bundesliga,Germany,2020,27,43,43,35,-12,78,FC Bayern München,L1
+Bundesliga,Germany,2020,23826,16,37,28,-12,65,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2020,16,20,35,29,-9,64,Borussia Dortmund,L1
+Bundesliga,Germany,2020,82,16,34,27,-8,61,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2020,24,17,37,23,1,60,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2020,15,12,29,23,-2,52,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2020,89,14,32,18,7,50,1. FC Union Berlin,L1
+Bundesliga,Germany,2020,18,13,28,21,5,49,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2020,60,10,27,18,10,45,Sport-Club Freiburg,L1
+Bundesliga,Germany,2020,79,1,21,24,0,45,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2020,533,8,27,16,10,43,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2020,39,-10,16,23,7,39,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2020,167,-4,22,14,14,36,FC Augsburg 1907,L1
+Bundesliga,Germany,2020,10,-10,20,15,16,35,Arminia Bielefeld,L1
+Bundesliga,Germany,2020,44,-5,20,15,6,35,Hertha BSC,L1
+Bundesliga,Germany,2020,3,-11,14,19,15,33,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2020,86,-12,14,17,9,31,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2020,33,-20,12,4,41,16,FC Schalke 04,L1
+Bundesliga,Germany,2021,27,33,41,36,-27,77,FC Bayern München,L1
+Bundesliga,Germany,2021,16,24,39,30,-9,69,Borussia Dortmund,L1
+Bundesliga,Germany,2021,15,16,32,32,-17,64,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2021,23826,26,35,23,-9,58,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2021,89,8,35,22,2,57,1. FC Union Berlin,L1
+Bundesliga,Germany,2021,60,7,29,26,-5,55,Sport-Club Freiburg,L1
+Bundesliga,Germany,2021,3,6,31,21,3,52,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2021,39,22,35,11,17,46,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2021,533,10,28,18,12,46,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2021,18,6,28,17,13,45,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2021,24,-2,19,23,2,42,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2021,80,4,28,14,18,42,Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft,L1
+Bundesliga,Germany,2021,82,4,24,18,15,42,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2021,167,-1,25,13,16,38,FC Augsburg 1907,L1
+Bundesliga,Germany,2021,44,-9,21,12,25,33,Hertha BSC,L1
+Bundesliga,Germany,2021,79,-4,22,11,14,33,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2021,10,-8,16,12,18,28,Arminia Bielefeld,L1
+Bundesliga,Germany,2021,65,-18,14,4,36,18,SpVgg Greuther Fürth,L1
+Bundesliga,Germany,2022,16,38,44,27,-1,71,Borussia Dortmund,L1
+Bundesliga,Germany,2022,27,36,38,33,-18,71,FC Bayern München,L1
+Bundesliga,Germany,2022,23826,20,41,25,-3,66,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2022,89,19,39,23,6,62,1. FC Union Berlin,L1
+Bundesliga,Germany,2022,60,15,34,25,8,59,Sport-Club Freiburg,L1
+Bundesliga,Germany,2022,15,12,27,23,4,50,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2022,24,17,32,18,11,50,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2022,82,9,25,24,0,49,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2022,39,6,24,22,7,46,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2022,18,15,33,10,18,43,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2022,3,8,23,19,13,42,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2022,86,-2,17,19,11,36,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2022,533,-1,23,13,8,36,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2022,80,-4,26,9,28,35,Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft,L1
+Bundesliga,Germany,2022,167,-8,22,12,13,34,FC Augsburg 1907,L1
+Bundesliga,Germany,2022,79,1,21,12,13,33,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2022,33,-13,20,11,23,31,FC Schalke 04,L1
+Bundesliga,Germany,2022,44,-3,21,8,24,29,Hertha BSC,L1
+Bundesliga,Germany,2023,15,36,45,45,-29,90,Bayer 04 Leverkusen Fußball,L1
+Bundesliga,Germany,2023,79,35,42,31,-4,73,Verein für Bewegungsspiele Stuttgart 1893,L1
+Bundesliga,Germany,2023,27,41,43,29,-8,72,FC Bayern München,L1
+Bundesliga,Germany,2023,23826,28,37,28,-10,65,RasenBallsport Leipzig,L1
+Bundesliga,Germany,2023,16,15,33,30,-10,63,Borussia Dortmund,L1
+Bundesliga,Germany,2023,24,8,29,18,7,47,Eintracht Frankfurt Fußball AG,L1
+Bundesliga,Germany,2023,533,0,23,23,0,46,TSG 1899 Hoffenheim Fußball-Spielbetriebs GmbH,L1
+Bundesliga,Germany,2023,60,-2,22,20,11,42,Sport-Club Freiburg,L1
+Bundesliga,Germany,2023,86,3,25,17,9,42,Sportverein Werder Bremen von 1899,L1
+Bundesliga,Germany,2023,2036,4,26,16,9,42,1. Fußballclub Heidenheim 1846,L1
+Bundesliga,Germany,2023,167,0,24,15,10,39,FC Augsburg 1907,L1
+Bundesliga,Germany,2023,82,0,22,15,15,37,Verein für Leibesübungen Wolfsburg,L1
+Bundesliga,Germany,2023,39,5,23,12,17,35,1. Fußball- und Sportverein Mainz 05,L1
+Bundesliga,Germany,2023,18,1,21,13,12,34,Borussia Verein für Leibesübungen 1900 Mönchengladbach,L1
+Bundesliga,Germany,2023,80,-3,23,10,29,33,Verein für Leibesübungen Bochum 1848 – Fußballgemeinschaft,L1
+Bundesliga,Germany,2023,89,-8,23,10,17,33,1. FC Union Berlin,L1
+Bundesliga,Germany,2023,3,-13,16,11,19,27,1. Fußball-Club Köln,L1
+Bundesliga,Germany,2023,105,-29,6,11,27,17,Sportverein Darmstadt 1898 e. V.,L1
+Serie-A,Italy,2012,506,26,45,42,-21,87,Juventus Football Club,IT1
+Serie-A,Italy,2012,6195,26,46,32,-11,78,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2012,5,18,41,31,-10,72,Associazione Calcio Milan,IT1
+Serie-A,Italy,2012,430,21,43,27,-7,70,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2012,410,15,40,26,1,66,Udinese Calcio,IT1
+Serie-A,Italy,2012,12,16,35,27,1,62,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2012,398,19,41,20,10,61,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2012,1627,16,40,16,12,56,Catania FC,IT1
+Serie-A,Italy,2012,46,-1,28,26,1,54,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2012,130,10,33,16,11,49,Parma Calcio 1913,IT1
+Serie-A,Italy,2012,1390,0,28,19,12,47,Cagliari Calcio,IT1
+Serie-A,Italy,2012,862,2,26,19,17,45,Chievo Verona,IT1
+Serie-A,Italy,2012,1025,6,26,18,12,44,Bologna Football Club 1909,IT1
+Serie-A,Italy,2012,1038,3,27,16,11,43,UC Sampdoria,IT1
+Serie-A,Italy,2012,800,-5,24,18,12,42,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2012,416,-3,24,16,6,40,Torino Calcio,IT1
+Serie-A,Italy,2012,252,-4,22,16,10,38,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2012,1387,-3,23,13,18,36,Siena FC,IT1
+Serie-A,Italy,2012,458,-2,22,10,18,32,Palermo FC,IT1
+Serie-A,Italy,2012,2921,-27,13,9,30,22,Delfino Pescara 1936,IT1
+Serie-A,Italy,2013,506,38,57,45,-19,102,Juventus Football Club,IT1
+Serie-A,Italy,2013,12,35,48,37,-12,85,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2013,6195,28,43,35,-10,78,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2013,430,7,31,34,-14,65,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2013,46,9,33,27,-14,60,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2013,130,9,34,24,-3,58,Parma Calcio 1913,IT1
+Serie-A,Italy,2013,5,11,37,20,3,57,Associazione Calcio Milan,IT1
+Serie-A,Italy,2013,416,11,33,24,1,57,Torino Calcio,IT1
+Serie-A,Italy,2013,398,11,36,20,11,56,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2013,276,7,33,21,13,54,Verona Hellas Football Club,IT1
+Serie-A,Italy,2013,800,6,36,14,14,50,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2013,1038,-1,26,19,13,45,UC Sampdoria,IT1
+Serie-A,Italy,2013,252,3,29,15,12,44,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2013,410,3,31,13,14,44,Udinese Calcio,IT1
+Serie-A,Italy,2013,1390,-3,28,11,16,39,Cagliari Calcio,IT1
+Serie-A,Italy,2013,862,-3,20,16,17,36,Chievo Verona,IT1
+Serie-A,Italy,2013,6574,-16,17,17,13,34,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2013,1627,0,27,5,32,32,Catania FC,IT1
+Serie-A,Italy,2013,1025,-12,17,12,18,29,Bologna Football Club 1909,IT1
+Serie-A,Italy,2013,1210,-10,17,8,28,25,US Livorno 1915,IT1
+Serie-A,Italy,2014,506,34,51,36,-14,87,Juventus Football Club,IT1
+Serie-A,Italy,2014,12,17,37,33,-6,70,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2014,398,22,37,32,-11,69,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2014,430,13,33,31,-2,64,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2014,6195,18,38,25,2,63,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2014,252,12,33,26,-3,59,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2014,1038,8,31,25,2,56,UC Sampdoria,IT1
+Serie-A,Italy,2014,46,10,28,27,-1,55,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2014,416,11,31,23,8,54,Torino Calcio,IT1
+Serie-A,Italy,2014,5,11,32,20,5,52,Associazione Calcio Milan,IT1
+Serie-A,Italy,2014,458,5,30,19,7,49,Palermo FC,IT1
+Serie-A,Italy,2014,6574,3,29,20,11,49,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2014,276,-3,26,20,13,46,Verona Hellas Football Club,IT1
+Serie-A,Italy,2014,862,-3,21,22,10,43,Chievo Verona,IT1
+Serie-A,Italy,2014,749,4,26,16,10,42,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2014,410,-3,23,18,10,41,Udinese Calcio,IT1
+Serie-A,Italy,2014,800,-11,19,18,8,37,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2014,1390,-12,16,18,8,34,Cagliari Calcio,IT1
+Serie-A,Italy,2014,130,-8,19,7,34,26,Parma Calcio 1913,IT1
+Serie-A,Italy,2014,1429,-12,16,8,25,24,Cesena FC,IT1
+Serie-A,Italy,2015,506,31,50,41,-24,91,Juventus Football Club,IT1
+Serie-A,Italy,2015,6195,37,51,31,-11,82,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2015,12,27,44,36,-15,80,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2015,46,14,41,26,2,67,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2015,430,18,38,26,0,64,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2015,6574,5,32,29,-4,61,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2015,5,6,33,24,0,57,Associazione Calcio Milan,IT1
+Serie-A,Italy,2015,398,9,33,21,9,54,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2015,862,7,29,21,9,50,Chievo Verona,IT1
+Serie-A,Italy,2015,252,10,33,13,13,46,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2015,749,2,27,19,11,46,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2015,416,0,24,21,3,45,Torino Calcio,IT1
+Serie-A,Italy,2015,800,6,30,15,12,45,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2015,1025,-1,20,22,11,42,Bologna Football Club 1909,IT1
+Serie-A,Italy,2015,1038,4,28,12,17,40,UC Sampdoria,IT1
+Serie-A,Italy,2015,410,-10,22,17,15,39,Udinese Calcio,IT1
+Serie-A,Italy,2015,458,-6,22,17,21,39,Palermo FC,IT1
+Serie-A,Italy,2015,4102,-3,23,15,17,38,AC Carpi,IT1
+Serie-A,Italy,2015,8970,-8,22,9,33,31,Frosinone Calcio S.r.l.,IT1
+Serie-A,Italy,2015,276,-9,18,10,20,28,Verona Hellas Football Club,IT1
+Serie-A,Italy,2016,506,39,55,36,-11,91,Juventus Football Club,IT1
+Serie-A,Italy,2016,12,32,49,38,-20,87,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2016,6195,25,43,43,-30,86,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2016,800,13,40,32,-8,72,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2016,398,17,38,32,-6,70,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2016,5,12,38,25,0,63,Associazione Calcio Milan,IT1
+Serie-A,Italy,2016,46,22,36,26,-1,62,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2016,430,11,38,22,5,60,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2016,416,12,35,18,7,53,Torino Calcio,IT1
+Serie-A,Italy,2016,1038,5,30,18,11,48,UC Sampdoria,IT1
+Serie-A,Italy,2016,1390,4,36,11,25,47,Cagliari Calcio,IT1
+Serie-A,Italy,2016,6574,-1,24,22,4,46,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2016,410,7,29,16,16,45,Udinese Calcio,IT1
+Serie-A,Italy,2016,862,-5,23,20,13,43,Chievo Verona,IT1
+Serie-A,Italy,2016,1025,-1,26,15,17,41,Bologna Football Club 1909,IT1
+Serie-A,Italy,2016,252,0,25,11,26,36,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2016,4083,-4,22,12,20,34,FC Crotone,IT1
+Serie-A,Italy,2016,749,-13,19,13,19,32,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2016,458,-17,15,11,27,26,Palermo FC,IT1
+Serie-A,Italy,2016,2921,-19,11,7,25,18,Delfino Pescara 1936,IT1
+Serie-A,Italy,2017,506,37,49,46,-25,95,Juventus Football Club,IT1
+Serie-A,Italy,2017,6195,25,45,46,-23,91,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2017,12,12,35,42,-21,77,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2017,46,21,38,34,-15,72,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2017,398,24,32,40,-16,72,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2017,5,9,35,29,-5,64,Associazione Calcio Milan,IT1
+Serie-A,Italy,2017,800,12,33,27,-6,60,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2017,430,5,29,28,-3,57,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2017,416,11,30,24,3,54,Torino Calcio,IT1
+Serie-A,Italy,2017,1038,16,39,15,20,54,UC Sampdoria,IT1
+Serie-A,Italy,2017,6574,-11,19,24,19,43,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2017,252,-4,21,20,6,41,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2017,410,-6,20,20,9,40,Udinese Calcio,IT1
+Serie-A,Italy,2017,862,-2,27,13,21,40,Chievo Verona,IT1
+Serie-A,Italy,2017,1025,-1,22,17,11,39,Bologna Football Club 1909,IT1
+Serie-A,Italy,2017,1390,-12,21,18,16,39,Cagliari Calcio,IT1
+Serie-A,Italy,2017,2722,-7,23,15,13,38,SPAL,IT1
+Serie-A,Italy,2017,4083,-2,24,11,24,35,FC Crotone,IT1
+Serie-A,Italy,2017,276,-21,16,9,27,25,Verona Hellas Football Club,IT1
+Serie-A,Italy,2017,4171,-17,17,4,34,21,Benevento Calcio,IT1
+Serie-A,Italy,2018,506,26,49,41,-14,90,Juventus Football Club,IT1
+Serie-A,Italy,2018,6195,25,43,36,-13,79,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2018,46,17,38,31,-7,69,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2018,800,17,35,34,-14,69,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2018,5,14,40,28,-5,68,Associazione Calcio Milan,IT1
+Serie-A,Italy,2018,12,17,41,25,-1,66,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2018,416,13,38,25,-2,63,Torino Calcio,IT1
+Serie-A,Italy,2018,398,11,32,27,1,59,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2018,1038,12,32,21,3,53,UC Sampdoria,IT1
+Serie-A,Italy,2018,1025,6,31,13,14,44,Bologna Football Club 1909,IT1
+Serie-A,Italy,2018,410,0,29,14,14,43,Udinese Calcio,IT1
+Serie-A,Italy,2018,6574,0,25,18,7,43,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2018,2722,-6,22,20,6,42,SPAL,IT1
+Serie-A,Italy,2018,130,-7,22,19,13,41,Parma Calcio 1913,IT1
+Serie-A,Italy,2018,430,6,24,17,4,41,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2018,1390,3,30,11,21,41,Cagliari Calcio,IT1
+Serie-A,Italy,2018,252,-1,26,12,17,38,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2018,749,3,30,8,22,38,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2018,8970,-24,9,16,16,25,Frosinone Calcio S.r.l.,IT1
+Serie-A,Italy,2018,862,-23,10,10,27,20,Chievo Verona,IT1
+Serie-A,Italy,2019,506,29,50,33,-4,83,Juventus Football Club,IT1
+Serie-A,Italy,2019,46,23,39,43,-22,82,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2019,398,29,45,33,-8,78,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2019,800,25,38,40,-25,78,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2019,12,9,34,36,-17,70,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2019,5,11,33,33,-6,66,Associazione Calcio Milan,IT1
+Serie-A,Italy,2019,6195,7,33,29,-4,62,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2019,6574,11,27,24,5,51,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2019,130,2,23,26,3,49,Parma Calcio 1913,IT1
+Serie-A,Italy,2019,276,4,32,17,8,49,Verona Hellas Football Club,IT1
+Serie-A,Italy,2019,430,0,23,26,-3,49,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2019,1025,-4,23,24,9,47,Bologna Football Club 1909,IT1
+Serie-A,Italy,2019,410,-5,24,21,9,45,Udinese Calcio,IT1
+Serie-A,Italy,2019,1390,4,25,20,8,45,Cagliari Calcio,IT1
+Serie-A,Italy,2019,1038,-5,22,20,12,42,UC Sampdoria,IT1
+Serie-A,Italy,2019,416,-7,25,15,15,40,Torino Calcio,IT1
+Serie-A,Italy,2019,252,-7,22,17,19,39,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2019,1005,-11,17,18,22,35,Unione Sportiva Lecce,IT1
+Serie-A,Italy,2019,19,-13,14,11,31,25,Brescia Calcio,IT1
+Serie-A,Italy,2019,2722,-24,10,10,26,20,SPAL,IT1
+Serie-A,Italy,2020,46,35,52,39,-19,91,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2020,5,7,30,49,-26,79,Associazione Calcio Milan,IT1
+Serie-A,Italy,2020,506,22,44,34,-17,78,Juventus Football Club,IT1
+Serie-A,Italy,2020,800,25,39,39,-18,78,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2020,6195,30,40,37,-15,77,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2020,398,13,42,26,7,68,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2020,12,24,43,19,14,62,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2020,6574,4,29,33,-4,62,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2020,1038,6,30,22,8,52,UC Sampdoria,IT1
+Serie-A,Italy,2020,276,0,24,21,2,45,Verona Hellas Football Club,IT1
+Serie-A,Italy,2020,252,-1,22,20,10,42,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2020,1025,0,26,15,14,41,Bologna Football Club 1909,IT1
+Serie-A,Italy,2020,410,-5,19,21,11,40,Udinese Calcio,IT1
+Serie-A,Italy,2020,430,0,24,16,12,40,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2020,3522,-5,22,17,15,39,Spezia Calcio,IT1
+Serie-A,Italy,2020,416,-11,18,19,8,37,Torino Calcio,IT1
+Serie-A,Italy,2020,1390,-10,19,18,6,37,Cagliari Calcio,IT1
+Serie-A,Italy,2020,4171,-20,13,20,15,33,Benevento Calcio,IT1
+Serie-A,Italy,2020,4083,-12,17,6,35,23,FC Crotone,IT1
+Serie-A,Italy,2020,130,-23,11,9,21,20,Parma Calcio 1913,IT1
+Serie-A,Italy,2021,5,16,40,46,-22,86,Associazione Calcio Milan,IT1
+Serie-A,Italy,2021,46,32,45,39,-20,84,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2021,6195,21,36,43,-22,79,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2021,506,11,35,35,-9,70,Juventus Football Club,IT1
+Serie-A,Italy,2021,398,17,36,28,-2,64,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2021,12,10,36,27,-6,63,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2021,430,18,41,21,10,62,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2021,800,2,20,39,-15,59,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2021,276,9,30,23,3,53,Verona Hellas Football Club,IT1
+Serie-A,Italy,2021,416,8,29,21,3,50,Torino Calcio,IT1
+Serie-A,Italy,2021,6574,-3,24,26,-1,50,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2021,410,2,25,22,-1,47,Udinese Calcio,IT1
+Serie-A,Italy,2021,1025,1,28,18,12,46,Bologna Football Club 1909,IT1
+Serie-A,Italy,2021,749,-16,17,24,4,41,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2021,1038,-3,21,15,14,36,UC Sampdoria,IT1
+Serie-A,Italy,2021,3522,-9,18,18,21,36,Spezia Calcio,IT1
+Serie-A,Italy,2021,380,-22,15,16,23,31,U.S. Salernitana 1919 S.r.l.,IT1
+Serie-A,Italy,2021,1390,-13,15,15,21,30,Cagliari Calcio,IT1
+Serie-A,Italy,2021,252,-11,17,11,22,28,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2021,607,-17,14,13,18,27,Venezia FC,IT1
+Serie-A,Italy,2022,6195,25,45,45,-24,90,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2022,398,14,37,37,-16,74,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2022,46,23,42,30,-6,72,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2022,506,23,42,30,0,72,Juventus Football Club,IT1
+Serie-A,Italy,2022,5,21,43,27,0,70,Associazione Calcio Milan,IT1
+Serie-A,Italy,2022,800,12,33,31,-6,64,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2022,12,13,36,27,1,63,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2022,430,8,33,23,-2,56,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2022,1025,10,30,24,6,54,Bologna Football Club 1909,IT1
+Serie-A,Italy,2022,416,-4,22,31,-5,53,Torino Calcio,IT1
+Serie-A,Italy,2022,2919,3,26,26,7,52,Associazione Calcio Monza,IT1
+Serie-A,Italy,2022,410,10,27,19,11,46,Udinese Calcio,IT1
+Serie-A,Italy,2022,6574,1,28,17,15,45,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2022,749,-1,28,15,11,43,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2022,380,4,27,15,18,42,U.S. Salernitana 1919 S.r.l.,IT1
+Serie-A,Italy,2022,1005,-6,17,19,7,36,Unione Sportiva Lecce,IT1
+Serie-A,Italy,2022,276,-12,21,10,16,31,Verona Hellas Football Club,IT1
+Serie-A,Italy,2022,3522,-12,20,11,19,31,Spezia Calcio,IT1
+Serie-A,Italy,2022,2239,-16,16,11,17,27,US Cremonese,IT1
+Serie-A,Italy,2022,1038,-16,10,9,31,19,UC Sampdoria,IT1
+Serie-A,Italy,2023,46,33,46,48,-34,94,Football Club Internazionale Milano S.p.A.,IT1
+Serie-A,Italy,2023,5,21,40,35,-6,75,Associazione Calcio Milan,IT1
+Serie-A,Italy,2023,506,15,40,31,-8,71,Juventus Football Club,IT1
+Serie-A,Italy,2023,800,26,41,28,-4,69,Atalanta Bergamasca Calcio S.p.a.,IT1
+Serie-A,Italy,2023,1025,21,41,27,-1,68,Bologna Football Club 1909,IT1
+Serie-A,Italy,2023,12,19,40,23,0,63,Associazione Sportiva Roma,IT1
+Serie-A,Italy,2023,398,9,34,27,-1,61,Società Sportiva Lazio S.p.A.,IT1
+Serie-A,Italy,2023,430,15,35,25,0,60,Associazione Calcio Fiorentina,IT1
+Serie-A,Italy,2023,416,9,33,20,9,53,Torino Calcio,IT1
+Serie-A,Italy,2023,6195,-3,25,28,-10,53,Società Sportiva Calcio Napoli,IT1
+Serie-A,Italy,2023,252,5,30,19,5,49,Genoa Cricket and Football Club,IT1
+Serie-A,Italy,2023,2919,-3,24,21,9,45,Associazione Calcio Monza,IT1
+Serie-A,Italy,2023,276,-3,24,14,10,38,Verona Hellas Football Club,IT1
+Serie-A,Italy,2023,1005,-10,24,14,12,38,Unione Sportiva Lecce,IT1
+Serie-A,Italy,2023,410,-8,14,23,8,37,Udinese Calcio,IT1
+Serie-A,Italy,2023,749,-8,20,16,17,36,Empoli Football Club S.r.l.,IT1
+Serie-A,Italy,2023,1390,-4,25,11,22,36,Cagliari Calcio,IT1
+Serie-A,Italy,2023,8970,-4,25,10,21,35,Frosinone Calcio S.r.l.,IT1
+Serie-A,Italy,2023,6574,-11,20,10,21,30,Unione Sportiva Sassuolo Calcio,IT1
+Serie-A,Italy,2023,380,-21,8,9,28,17,U.S. Salernitana 1919 S.r.l.,IT1
+Laliga,Spain,2012,131,48,55,45,-27,100,Futbol Club Barcelona,ES1
+Laliga,Spain,2012,418,46,53,32,-15,85,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2012,13,30,44,32,-4,76,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2012,681,19,37,29,-2,66,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2012,1049,17,42,23,4,65,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2012,1084,15,35,22,12,57,Málaga CF,ES1
+Laliga,Spain,2012,150,10,32,24,9,56,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2012,367,-2,30,23,14,53,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2012,368,20,40,10,16,50,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2012,3709,2,31,16,16,47,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2012,3368,-1,28,18,16,46,Levante UD,ES1
+Laliga,Spain,2012,621,-5,27,18,16,45,Athletic Club Bilbao,ES1
+Laliga,Spain,2012,714,-3,25,19,6,44,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2012,366,3,27,16,12,43,Real Valladolid CF,ES1
+Laliga,Spain,2012,16795,0,24,18,17,42,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2012,331,1,26,13,18,39,Club Atlético Osasuna,ES1
+Laliga,Spain,2012,940,2,27,10,17,37,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2012,237,-4,26,10,25,36,Real Club Deportivo Mallorca S.A.D.,ES1
+Laliga,Spain,2012,897,-3,23,12,20,35,Deportivo de La Coruña,ES1
+Laliga,Spain,2012,142,-4,19,15,21,34,Real Zaragoza,ES1
+Laliga,Spain,2013,13,39,49,41,-12,90,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2013,131,49,50,37,-18,87,Futbol Club Barcelona,ES1
+Laliga,Spain,2013,418,46,49,38,-20,87,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2013,621,24,43,27,-3,70,Athletic Club Bilbao,ES1
+Laliga,Spain,2013,368,19,37,26,2,63,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2013,681,19,37,22,12,59,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2013,1050,15,33,26,-1,59,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2013,940,0,25,24,5,49,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2013,1049,11,33,16,13,49,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2013,3368,3,27,21,11,48,Levante UD,ES1
+Laliga,Spain,2013,1084,3,26,19,10,45,Málaga CF,ES1
+Laliga,Spain,2013,367,-8,24,19,26,43,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2013,714,1,26,16,11,42,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2013,3709,-4,24,18,15,42,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2013,16795,-4,22,19,20,41,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2013,1531,1,26,14,21,40,Elche CF,ES1
+Laliga,Spain,2013,3302,-5,24,16,23,40,Unión Deportiva Almería S.A.D.,ES1
+Laliga,Spain,2013,331,-5,23,16,25,39,Club Atlético Osasuna,ES1
+Laliga,Spain,2013,366,3,27,9,25,36,Real Valladolid CF,ES1
+Laliga,Spain,2013,150,-12,18,7,30,25,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2014,131,53,49,45,-36,94,Futbol Club Barcelona,ES1
+Laliga,Spain,2014,418,50,50,42,-30,92,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2014,13,31,45,33,-7,78,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2014,1049,32,48,29,-6,77,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2014,368,25,44,32,-1,76,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2014,1050,12,37,23,1,60,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2014,621,8,30,25,7,55,Athletic Club Bilbao,ES1
+Laliga,Spain,2014,940,8,29,22,5,51,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2014,1084,6,30,20,12,50,Málaga CF,ES1
+Laliga,Spain,2014,367,0,26,23,22,49,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2014,714,4,30,19,8,49,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2014,681,8,32,14,15,46,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2014,1531,-12,21,20,15,41,Elche CF,ES1
+Laliga,Spain,2014,3368,-10,24,13,23,37,Levante UD,ES1
+Laliga,Spain,2014,3709,-6,23,14,25,37,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2014,897,-8,21,14,17,35,Deportivo de La Coruña,ES1
+Laliga,Spain,2014,1533,-9,18,17,12,35,SD Eibar,ES1
+Laliga,Spain,2014,16795,-4,22,13,31,35,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2014,3302,-8,16,16,21,32,Unión Deportiva Almería S.A.D.,ES1
+Laliga,Spain,2014,993,-21,9,11,25,20,Córdoba CF,ES1
+Laliga,Spain,2015,131,53,49,42,-30,91,Futbol Club Barcelona,ES1
+Laliga,Spain,2015,418,54,49,41,-22,90,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2015,13,26,48,40,-19,88,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2015,1050,14,40,24,5,64,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2015,621,18,37,25,5,62,Athletic Club Bilbao,ES1
+Laliga,Spain,2015,940,4,33,27,12,60,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2015,368,17,43,9,16,52,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2015,681,2,26,22,5,48,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2015,1084,11,30,18,8,48,Málaga CF,ES1
+Laliga,Spain,2015,150,-6,24,21,12,45,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2015,472,8,29,15,16,44,Unión Deportiva Las Palmas S.A.D.,ES1
+Laliga,Spain,2015,1049,2,25,19,4,44,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2015,714,-6,32,11,28,43,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2015,1533,4,29,14,16,43,SD Eibar,ES1
+Laliga,Spain,2015,897,-9,20,22,7,42,Deportivo de La Coruña,ES1
+Laliga,Spain,2015,2448,0,25,14,22,39,Sporting Gijón,ES1
+Laliga,Spain,2015,16795,-5,23,16,18,39,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2015,367,0,28,10,21,38,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2015,3709,3,25,11,33,36,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2015,3368,-3,26,6,30,32,Levante UD,ES1
+Laliga,Spain,2016,418,28,46,47,-37,93,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2016,131,47,48,42,-32,90,Futbol Club Barcelona,ES1
+Laliga,Spain,2016,13,26,44,34,-17,78,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2016,368,23,46,26,3,72,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2016,1050,17,37,30,-6,67,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2016,681,6,35,29,0,64,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2016,621,18,43,20,8,63,Athletic Club Bilbao,ES1
+Laliga,Spain,2016,714,4,29,27,5,56,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2016,1108,-2,29,26,0,55,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2016,1533,8,33,21,3,54,SD Eibar,ES1
+Laliga,Spain,2016,1049,0,28,18,9,46,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2016,1084,7,32,14,13,46,Málaga CF,ES1
+Laliga,Spain,2016,940,-2,29,16,14,45,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2016,150,-2,25,14,21,39,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2016,472,8,33,6,29,39,Unión Deportiva Las Palmas S.A.D.,ES1
+Laliga,Spain,2016,897,4,26,10,22,36,Deportivo de La Coruña,ES1
+Laliga,Spain,2016,1244,-1,21,14,18,35,CD Leganés,ES1
+Laliga,Spain,2016,2448,-12,19,12,18,31,Sporting Gijón,ES1
+Laliga,Spain,2016,331,-16,13,9,38,22,Club Atlético Osasuna,ES1
+Laliga,Spain,2016,16795,-15,16,4,37,20,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2017,131,42,51,42,-28,93,Futbol Club Barcelona,ES1
+Laliga,Spain,2017,13,22,42,37,-14,79,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2017,418,34,40,36,-16,76,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2017,1049,20,42,31,-7,73,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2017,1050,13,36,25,6,61,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2017,150,4,34,26,5,60,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2017,368,9,38,20,18,58,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2017,3709,13,31,24,4,55,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2017,1533,7,28,23,13,51,SD Eibar,ES1
+Laliga,Spain,2017,12321,4,27,24,13,51,Girona Fútbol Club S. A. D.,ES1
+Laliga,Spain,2017,681,18,33,16,11,49,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2017,714,4,30,19,10,49,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2017,940,11,32,17,12,49,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2017,1108,-2,28,19,8,47,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2017,3368,-3,27,19,11,46,Levante UD,ES1
+Laliga,Spain,2017,621,3,26,17,11,43,Athletic Club Bilbao,ES1
+Laliga,Spain,2017,1244,0,31,12,17,43,CD Leganés,ES1
+Laliga,Spain,2017,897,-11,18,11,27,29,Deportivo de La Coruña,ES1
+Laliga,Spain,2017,472,-23,14,8,27,22,Unión Deportiva Las Palmas S.A.D.,ES1
+Laliga,Spain,2017,1084,-13,15,5,24,20,Málaga CF,ES1
+Laliga,Spain,2018,131,34,48,39,-20,87,Futbol Club Barcelona,ES1
+Laliga,Spain,2018,13,22,48,28,-4,76,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2018,418,17,40,28,0,68,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2018,1049,12,31,30,-4,61,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2018,368,19,39,20,4,59,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2018,3709,15,36,23,2,59,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2018,621,7,35,18,11,53,Athletic Club Bilbao,ES1
+Laliga,Spain,2018,714,6,36,17,8,53,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2018,150,-1,29,21,7,50,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2018,681,3,27,23,4,50,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2018,1108,0,29,21,11,50,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2018,1533,10,33,14,14,47,SD Eibar,ES1
+Laliga,Spain,2018,1244,3,29,16,9,45,CD Leganés,ES1
+Laliga,Spain,2018,1050,2,23,21,5,44,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2018,3368,0,25,19,7,44,Levante UD,ES1
+Laliga,Spain,2018,366,-10,20,21,9,41,Real Valladolid CF,ES1
+Laliga,Spain,2018,940,6,29,12,15,41,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2018,12321,-11,15,22,5,37,Girona Fútbol Club S. A. D.,ES1
+Laliga,Spain,2018,5358,-6,21,12,16,33,SD Huesca,ES1
+Laliga,Spain,2018,367,-7,21,11,22,32,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2019,418,29,49,38,-16,87,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2019,131,36,50,32,-12,82,Futbol Club Barcelona,ES1
+Laliga,Spain,2019,13,17,42,28,-7,70,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2019,368,12,37,33,-8,70,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2019,1050,12,32,28,-2,60,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2019,681,13,31,25,5,56,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2019,16795,10,33,23,3,56,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2019,3709,5,30,24,-1,54,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2019,1049,13,40,13,20,53,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2019,331,-3,28,24,5,52,Club Atlético Osasuna,ES1
+Laliga,Spain,2019,621,7,31,20,4,51,Athletic Club Bilbao,ES1
+Laliga,Spain,2019,3368,8,32,17,14,49,Levante UD,ES1
+Laliga,Spain,2019,366,3,25,17,14,42,Real Valladolid CF,ES1
+Laliga,Spain,2019,1533,0,27,15,17,42,SD Eibar,ES1
+Laliga,Spain,2019,150,7,31,10,19,41,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2019,1108,1,27,12,26,39,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2019,940,2,23,14,14,37,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2019,1244,-9,20,16,12,36,CD Leganés,ES1
+Laliga,Spain,2019,237,3,27,6,28,33,Real Club Deportivo Mallorca S.A.D.,ES1
+Laliga,Spain,2019,714,-16,12,13,15,25,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2020,13,30,48,38,-12,86,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2020,418,20,42,42,-19,84,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2020,131,24,38,41,-23,79,Futbol Club Barcelona,ES1
+Laliga,Spain,2020,368,16,43,34,-4,77,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2020,681,13,33,29,-8,62,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2020,150,6,35,26,6,61,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2020,1050,6,30,28,-10,58,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2020,940,0,30,23,2,53,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2020,621,10,30,16,6,46,Athletic Club Bilbao,ES1
+Laliga,Spain,2020,16795,0,31,15,18,46,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2020,331,-2,26,18,9,44,Club Atlético Osasuna,ES1
+Laliga,Spain,2020,2687,-13,20,24,9,44,Cádiz Club de Fútbol S.A.D,ES1
+Laliga,Spain,2020,1049,11,31,12,14,43,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2020,3368,-3,24,17,8,41,Levante UD,ES1
+Laliga,Spain,2020,1108,-4,24,14,17,38,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2020,3709,2,24,14,17,38,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2020,1531,-5,23,13,16,36,Elche CF,ES1
+Laliga,Spain,2020,5358,-4,22,12,15,34,SD Huesca,ES1
+Laliga,Spain,2020,366,-11,16,15,12,31,Real Valladolid CF,ES1
+Laliga,Spain,2020,1533,-9,13,17,14,30,SD Eibar,ES1
+Laliga,Spain,2021,418,31,44,42,-18,86,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2021,131,18,38,35,-12,73,Futbol Club Barcelona,ES1
+Laliga,Spain,2021,13,17,41,30,-5,71,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2021,368,19,42,28,-4,70,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2021,150,12,32,33,-10,65,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2021,681,7,35,27,4,62,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2021,1050,22,36,23,-4,59,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2021,621,11,34,21,4,55,Athletic Club Bilbao,ES1
+Laliga,Spain,2021,331,-9,22,25,5,47,Club Atlético Osasuna,ES1
+Laliga,Spain,2021,1049,2,26,21,7,47,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2021,940,3,25,21,3,46,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2021,367,4,29,13,15,42,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2021,1531,3,27,15,15,42,Elche CF,ES1
+Laliga,Spain,2021,714,6,32,9,19,41,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2021,237,-5,27,12,22,39,Real Club Deportivo Mallorca S.A.D.,ES1
+Laliga,Spain,2021,2687,-5,18,21,11,39,Cádiz Club de Fútbol S.A.D,ES1
+Laliga,Spain,2021,3709,6,28,11,14,39,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2021,16795,-7,22,16,10,38,Granada Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2021,3368,-2,22,13,23,35,Levante UD,ES1
+Laliga,Spain,2021,1108,-4,25,6,30,31,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2022,131,33,48,40,-17,88,Futbol Club Barcelona,ES1
+Laliga,Spain,2022,418,28,44,34,-11,78,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2022,13,26,42,35,-11,77,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2022,681,10,38,33,-6,71,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2022,1050,18,39,25,-1,64,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2022,150,8,32,28,3,60,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2022,331,3,34,19,8,53,Club Atlético Osasuna,ES1
+Laliga,Spain,2022,621,7,27,24,3,51,Athletic Club Bilbao,ES1
+Laliga,Spain,2022,237,10,35,15,16,50,Real Club Deportivo Mallorca S.A.D.,ES1
+Laliga,Spain,2022,367,6,32,17,14,49,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2022,368,-1,26,23,6,49,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2022,12321,9,33,16,6,49,Girona Fútbol Club S. A. D.,ES1
+Laliga,Spain,2022,940,5,27,16,15,43,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2022,1049,8,29,13,11,42,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2022,2687,-4,27,15,19,42,Cádiz Club de Fútbol S.A.D,ES1
+Laliga,Spain,2022,3709,1,27,15,12,42,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2022,3302,7,33,8,23,41,Unión Deportiva Almería S.A.D.,ES1
+Laliga,Spain,2022,366,-4,28,12,26,40,Real Valladolid CF,ES1
+Laliga,Spain,2022,714,-8,19,18,9,37,RCD Espanyol Barcelona,ES1
+Laliga,Spain,2022,1531,-11,15,10,26,25,Elche CF,ES1
+Laliga,Spain,2023,418,39,51,44,-22,95,Real Madrid Club de Fútbol,ES1
+Laliga,Spain,2023,131,22,46,39,-13,85,Futbol Club Barcelona,ES1
+Laliga,Spain,2023,12321,33,47,34,-6,81,Girona Fútbol Club S. A. D.,ES1
+Laliga,Spain,2023,13,20,49,27,-7,76,Club Atlético de Madrid S.A.D.,ES1
+Laliga,Spain,2023,621,24,42,26,0,68,Athletic Club Bilbao,ES1
+Laliga,Spain,2023,681,6,30,30,-6,60,Real Sociedad de Fútbol S.A.D.,ES1
+Laliga,Spain,2023,150,8,34,23,5,57,Real Betis Balompié S.A.D.,ES1
+Laliga,Spain,2023,1050,4,26,27,4,53,Villarreal Club de Fútbol S.A.D.,ES1
+Laliga,Spain,2023,1049,6,30,19,11,49,Valencia Club de Fútbol S. A. D.,ES1
+Laliga,Spain,2023,1108,4,31,15,14,46,Deportivo Alavés S.A.D.,ES1
+Laliga,Spain,2023,331,-7,23,22,4,45,Club Atlético Osasuna,ES1
+Laliga,Spain,2023,3709,-2,29,14,10,43,Getafe Club de Fútbol S.A.D. Team Dubai,ES1
+Laliga,Spain,2023,368,0,23,18,6,41,Sevilla Fútbol Club S.A.D.,ES1
+Laliga,Spain,2023,940,-2,24,17,9,41,Real Club Celta de Vigo S. A. D.,ES1
+Laliga,Spain,2023,237,1,26,14,12,40,Real Club Deportivo Mallorca S.A.D.,ES1
+Laliga,Spain,2023,472,0,24,16,14,40,Unión Deportiva Las Palmas S.A.D.,ES1
+Laliga,Spain,2023,367,-8,20,18,11,38,Rayo Vallecano de Madrid S.A.D.,ES1
+Laliga,Spain,2023,2687,-3,24,9,26,33,Cádiz Club de Fútbol S.A.D,ES1
+Laliga,Spain,2023,3302,-14,11,10,18,21,Unión Deportiva Almería S.A.D.,ES1
+Laliga,Spain,2023,16795,-8,18,3,33,21,Granada Club de Fútbol S.A.D.,ES1

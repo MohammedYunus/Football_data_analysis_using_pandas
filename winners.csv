@@ -1,0 +1,61 @@
+season,country_name,League,FC,club_id,count
+2012,England,Premier-League,Manchester United Football Club,985,1
+2012,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2012,Germany,Bundesliga,FC Bayern München,27,1
+2012,Italy,Serie-A,Juventus Football Club,506,1
+2012,Spain,Laliga,Futbol Club Barcelona,131,1
+2013,England,Premier-League,Manchester City Football Club,281,1
+2013,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2013,Germany,Bundesliga,FC Bayern München,27,1
+2013,Italy,Serie-A,Juventus Football Club,506,1
+2013,Spain,Laliga,Club Atlético de Madrid S.A.D.,13,1
+2014,England,Premier-League,Chelsea Football Club,631,1
+2014,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2014,Germany,Bundesliga,FC Bayern München,27,1
+2014,Italy,Serie-A,Juventus Football Club,506,1
+2014,Spain,Laliga,Futbol Club Barcelona,131,1
+2015,England,Premier-League,Leicester City,1003,1
+2015,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2015,Germany,Bundesliga,FC Bayern München,27,1
+2015,Italy,Serie-A,Juventus Football Club,506,1
+2015,Spain,Laliga,Futbol Club Barcelona,131,1
+2016,England,Premier-League,Chelsea Football Club,631,1
+2016,France,Ligue-1,Association sportive de Monaco Football Club,162,1
+2016,Germany,Bundesliga,FC Bayern München,27,1
+2016,Italy,Serie-A,Juventus Football Club,506,1
+2016,Spain,Laliga,Real Madrid Club de Fútbol,418,1
+2017,England,Premier-League,Manchester City Football Club,281,1
+2017,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2017,Germany,Bundesliga,FC Bayern München,27,1
+2017,Italy,Serie-A,Juventus Football Club,506,1
+2017,Spain,Laliga,Futbol Club Barcelona,131,1
+2018,England,Premier-League,Manchester City Football Club,281,1
+2018,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2018,Germany,Bundesliga,FC Bayern München,27,1
+2018,Italy,Serie-A,Juventus Football Club,506,1
+2018,Spain,Laliga,Futbol Club Barcelona,131,1
+2019,England,Premier-League,Liverpool Football Club,31,1
+2019,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2019,Germany,Bundesliga,FC Bayern München,27,1
+2019,Italy,Serie-A,Juventus Football Club,506,1
+2019,Spain,Laliga,Real Madrid Club de Fútbol,418,1
+2020,England,Premier-League,Manchester City Football Club,281,1
+2020,France,Ligue-1,Lille Olympique Sporting Club Lille Métropole,1082,1
+2020,Germany,Bundesliga,FC Bayern München,27,1
+2020,Italy,Serie-A,Football Club Internazionale Milano S.p.A.,46,1
+2020,Spain,Laliga,Club Atlético de Madrid S.A.D.,13,1
+2021,England,Premier-League,Manchester City Football Club,281,1
+2021,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2021,Germany,Bundesliga,FC Bayern München,27,1
+2021,Italy,Serie-A,Associazione Calcio Milan,5,1
+2021,Spain,Laliga,Real Madrid Club de Fútbol,418,1
+2022,England,Premier-League,Manchester City Football Club,281,1
+2022,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2022,Germany,Bundesliga,FC Bayern München,27,1
+2022,Italy,Serie-A,Società Sportiva Calcio Napoli,6195,1
+2022,Spain,Laliga,Futbol Club Barcelona,131,1
+2023,England,Premier-League,Manchester City Football Club,281,1
+2023,France,Ligue-1,Paris Saint-Germain Football Club,583,1
+2023,Germany,Bundesliga,Bayer 04 Leverkusen Fußball,15,1
+2023,Italy,Serie-A,Football Club Internazionale Milano S.p.A.,46,1
+2023,Spain,Laliga,Real Madrid Club de Fútbol,418,1
